@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+*.mp3
+
+# never commit secrets or local environments
+api-gemini.txt
+venv/
+*.onnx
+
+# the older src/ rewrite lives here; not part of this project
+VisitorGuideBot-main/
